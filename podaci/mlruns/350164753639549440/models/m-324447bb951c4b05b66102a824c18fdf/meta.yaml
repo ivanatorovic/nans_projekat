@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Bata0/Desktop/nans%20projekat%20dunav/dunav/podaci/mlruns/350164753639549440/models/m-324447bb951c4b05b66102a824c18fdf/artifacts
+creation_timestamp: 1753905378760
+experiment_id: '350164753639549440'
+last_updated_timestamp: 1753905381386
+model_id: m-324447bb951c4b05b66102a824c18fdf
+model_type: null
+name: flow_modeli
+source_run_id: 89f729ac5c344803a59f6bcc129beda8
+status: 2
+status_message: null
